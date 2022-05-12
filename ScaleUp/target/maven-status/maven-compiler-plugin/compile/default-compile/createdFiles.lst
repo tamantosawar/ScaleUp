@@ -1,0 +1,16 @@
+com\example\services\OrderService.class
+com\example\services\CustomerService.class
+com\example\exception\GlobalExceptionHandler.class
+com\example\ScaleUpApplication.class
+com\example\repo\OrderRepository.class
+com\example\services\ProductService.class
+com\example\exception\ResourceNotFoundException.class
+com\example\repo\ProductRepository.class
+com\example\controller\MainController.class
+com\example\exception\ErrorDetails.class
+com\example\controller\ProductController.class
+com\example\controller\OrderController.class
+com\example\repo\merchantRepository.class
+com\example\model\Orders.class
+com\example\model\Product.class
+com\example\model\merchant.class
